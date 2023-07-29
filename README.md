@@ -175,7 +175,7 @@ You can click the Preview link to take a look at your changes.
 ## &nbsp; &nbsp; &nbsp;🔥 My Core Values
 
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; <img  src="https://readme-typing-svg.herokuapp.com?font=Soucre+Code+Pro&duration=1700&color=12263A&background=ffffff&multiline=true&width=650&height=220&lines=while(true);..+Excellence;..+Honesty;....;....Ikagai(Growth);...Discipline;....Result + Oriented;...repeat()"/>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; <img  src="https://readme-typing-svg.herokuapp.com?font=Soucre+Code+Pro&duration=1700&color=12263A&background=ffffff&multiline=true&width=650&height=220&lines=while(true);..+Excellence;..+Honesty;....Ikagai(Growth);...Discipline;....Result + Oriented;...repeat()" alt="core values"/>
 
 
 
