@@ -1,4 +1,4 @@
-# Welcome to my Oluwatobi's Profile.. 
+# Welcome to Oluwatobi's Profile.. 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=fcba03&size=25&center=false&lines=hey!+its+Oluwatobi;Software+Engineer...;Tech+Enthusiast...;"/>
  
